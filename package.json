@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/JuninhoSouza25/teste-api/issues"
   },
-  "homepage": "https://github.com/JuninhoSouza25/teste-api#readme",
+  "homepage": "https://github.com/JuninhoSouza25/teste-api",
   "dependencies": {
     "next": "^12.3.1",
     "react": "^18.2.0",
